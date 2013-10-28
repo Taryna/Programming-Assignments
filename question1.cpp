@@ -1,5 +1,6 @@
 int main()
 {
+    cout<<"HELLO"<<endl;
     cout << "Enter #1: ";
     double a;
     cin>>a;
@@ -19,3 +20,4 @@ int main()
 
     return 0;
 }
+
